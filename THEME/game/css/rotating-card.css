@@ -294,7 +294,12 @@ body {
 .navbar-default .navbar-brand-logo .brand{
     color: #555;
 }
-
+.form-actions {
+    margin: 0;
+    background-color:linear-gradient(-90deg,rgb(60, 10, 199), rgb(50, 12, 187));
+    text-align: center;
+    padding-bottom: 10px;
+}
 
 /*       Fix bug for IE      */
 
